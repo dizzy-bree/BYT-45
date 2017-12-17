@@ -1,0 +1,6 @@
+D:\MyStudy\BYT_Builder\BYT_Builder\bin\Debug\BYT_Builder.exe.config
+D:\MyStudy\BYT_Builder\BYT_Builder\bin\Debug\BYT_Builder.exe
+D:\MyStudy\BYT_Builder\BYT_Builder\bin\Debug\BYT_Builder.pdb
+D:\MyStudy\BYT_Builder\BYT_Builder\obj\Debug\BYT_Builder.csprojResolveAssemblyReference.cache
+D:\MyStudy\BYT_Builder\BYT_Builder\obj\Debug\BYT_Builder.exe
+D:\MyStudy\BYT_Builder\BYT_Builder\obj\Debug\BYT_Builder.pdb

@@ -1,0 +1,6 @@
+D:\MyStudy\BYT_Calculator\BYT_Calculator\bin\Debug\BYT_Calculator.exe.config
+D:\MyStudy\BYT_Calculator\BYT_Calculator\bin\Debug\BYT_Calculator.exe
+D:\MyStudy\BYT_Calculator\BYT_Calculator\bin\Debug\BYT_Calculator.pdb
+D:\MyStudy\BYT_Calculator\BYT_Calculator\obj\Debug\BYT_Calculator.csprojResolveAssemblyReference.cache
+D:\MyStudy\BYT_Calculator\BYT_Calculator\obj\Debug\BYT_Calculator.exe
+D:\MyStudy\BYT_Calculator\BYT_Calculator\obj\Debug\BYT_Calculator.pdb

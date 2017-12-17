@@ -1,0 +1,6 @@
+D:\MyStudy\BYT_Memento\BYT_Memento\bin\Debug\BYT_Memento.exe.config
+D:\MyStudy\BYT_Memento\BYT_Memento\bin\Debug\BYT_Memento.exe
+D:\MyStudy\BYT_Memento\BYT_Memento\bin\Debug\BYT_Memento.pdb
+D:\MyStudy\BYT_Memento\BYT_Memento\obj\Debug\BYT_Memento.csprojResolveAssemblyReference.cache
+D:\MyStudy\BYT_Memento\BYT_Memento\obj\Debug\BYT_Memento.exe
+D:\MyStudy\BYT_Memento\BYT_Memento\obj\Debug\BYT_Memento.pdb
